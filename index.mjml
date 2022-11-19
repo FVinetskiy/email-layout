@@ -1,0 +1,67 @@
+<mjml>
+  <mj-head>
+    <mj-title>letter shop</mj-title>
+    <mj-preview>letter shop</mj-preview>
+  </mj-head>
+  <mj-body background-color="#0A3E76">
+    <mj-section >
+      <mj-column>
+        <mj-image width="162px" src="https://static.re-store.ru/upload/iblock/c53/c5388c7e01c7d90a9fef854b241354f3.jpeg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image width="170px" src="https://static.re-store.ru/upload/iblock/fd2/fd2267f0589eb0bf57abbe05a3364944.jpg"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify" font-size="15px" color="#000" font-family="helvetica">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet ipsum consequat.</mj-text>
+        <mj-button align="left" background-color="#18085E" border-radius="40px" font-family="helvetica" font-size="12px">READ MORE</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#0A3E76" vertical-align="middle" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="10px">Why choose us?</mj-text>
+        <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
+        <mj-text align="center" color="#f8d5d1" font-size="11px" padding-bottom="25px">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Lorem ipsum dolor sit amet, consectetur adipiscing
+          elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image width="165px" src="https://static.re-store.ru/upload/resize_cache/iblock/06f/350_350_1/06f5a181b015cd6a5004f4daea84ba2f.jpg"></mj-image>
+        <mj-text font-weight="bold" align="center" font-size="16px" color="#fff" font-family="helvetica">Article Title</mj-text>
+        <mj-text align="justify" font-size="13px" color="#fff" font-family="helvetica">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</mj-text>
+        <mj-button background-color="#18085E" border-radius="40px" font-family="helvetica" font-size="12px">READ MORE</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image width="165px" src="https://static.re-store.ru/upload/resize_cache/iblock/06f/350_350_1/06f5a181b015cd6a5004f4daea84ba2f.jpg"></mj-image>
+        <mj-text font-weight="bold" align="center" font-size="16px" color="#fff" font-family="helvetica">Article Title</mj-text>
+        <mj-text align="justify" font-size="13px" color="#fff" font-family="helvetica">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</mj-text>
+        <mj-button background-color="#18085E" border-radius="40px" font-family="helvetica" font-size="12px">READ MORE</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image width="165px" src="https://static.re-store.ru/upload/resize_cache/iblock/06f/350_350_1/06f5a181b015cd6a5004f4daea84ba2f.jpg"></mj-image>
+        <mj-text font-weight="bold" align="center" font-size="16px" color="#fff" font-family="helvetica">Article Title</mj-text>
+        <mj-text align="justify" font-size="13px" color="#fff" font-family="helvetica">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</mj-text>
+        <mj-button background-color="#18085E" border-radius="40px" font-family="helvetica" font-size="12px">READ MORE</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="facebook" href="#" background-color="#04192F">
+            </mj-social-element>
+            <mj-social-element name="google" href="#" background-color="#04192F">
+            </mj-social-element>
+            <mj-social-element name="twitter" href="#" background-color="#04192F">
+            </mj-social-element>
+            <mj-social-element name="linkedin" href="#" background-color="#04192F">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#fff" font-size="11px" font-weight="bold" align="center">
+            View this email in your browser
+          </mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>
